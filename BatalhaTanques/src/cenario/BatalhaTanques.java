@@ -2,7 +2,7 @@ package cenario;
 
 import recursos.*;
 
-public class BatalhaRobos {
+public class BatalhaTanques {
     public static void main(String[] args) throws Exception {
         Tanque meteBala = new Tanque();
 
